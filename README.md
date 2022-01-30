@@ -10,3 +10,6 @@ A repository to summarise my studies and understanding of networking model in ku
 * https://www.tigera.io/blog/when-linux-conntrack-is-no-longer-your-friend/
 * https://www.tigera.io/blog/comparing-kube-proxy-modes-iptables-or-ipvs/
 * https://itnext.io/an-illustrated-guide-to-kubernetes-networking-part-3-f35957784c8e
+* Manually creating kubernetes networking model:
+  * https://dustinspecker.com/posts/iptables-how-kubernetes-services-direct-traffic-to-pods/
+  * https://dustinspecker.com/posts/ipvs-how-kubernetes-services-direct-traffic-to-pods/ 
