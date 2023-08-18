@@ -13,4 +13,7 @@ A repository to summarise my studies and understanding of networking model in ku
 * https://www.stackrox.io/blog/kubernetes-networking-demystified/
 * Manually creating kubernetes networking model:
   * https://dustinspecker.com/posts/iptables-how-kubernetes-services-direct-traffic-to-pods/
-  * https://dustinspecker.com/posts/ipvs-how-kubernetes-services-direct-traffic-to-pods/ 
+  * https://dustinspecker.com/posts/ipvs-how-kubernetes-services-direct-traffic-to-pods/
+* Creating local eks cluster with dashboard
+  * https://medium.com/@munza/local-kubernetes-with-kind-helm-dashboard-41152e4b3b3d
+  * https://kind.sigs.k8s.io/
